@@ -1,0 +1,34 @@
+---
+# elsarticle package options
+elsarticle: preprint
+
+# geometry options
+geometry: margin=2.5cm
+
+# journal
+journal: arXiv
+
+# indent the first line of each paragraph
+indent: false
+
+# push extra vertical space to the bottom of the page
+raggedbottom: true
+
+# insert line numbers at given modulo
+line-numbers: 5
+
+# use pandoc tightlist
+tightlist: false
+
+# bibliography
+bibstyle: bst/harvard
+biboptions: authoryear
+bibfile: references
+
+# frontmatter
+frontmatter: \input{sections/00-frontmatter.tex}
+
+# preamble
+header-includes:
+    - \input{config/preamble.tex}
+---
