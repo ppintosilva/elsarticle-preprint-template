@@ -277,3 +277,6 @@ TSWLatexianTemp*
 
 # vscode
 .vscode/
+
+# log file
+main.txt
