@@ -1,0 +1,12 @@
+- /images
+- /tables
+- /bst
+- main.*
+- LICENSE
+- Makefile
+- references.bib
+- .gitignore
+- .projectile
+- .git/
+- config/numcompress.sty
+- config/template.tex
